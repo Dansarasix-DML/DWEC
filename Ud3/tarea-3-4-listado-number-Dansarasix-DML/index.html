@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Daniel Marín López">
+    <script src="./js/main.js"></script>
+    <title>Listado Number</title>
+</head>
+<body>
+    <h1>Objeto Number</h1>
+    <form>
+        <label>
+            <h2>Sistemas Numéricos:</h2>
+            Crea una página que cambie de un sistema a otro: binario, octal, decimal, hexadecimal.
+            <br/><br/>
+            Binario: <input type="text" name="Bin">
+            <br/><br/>
+            Octal: <input type="text" name="Oct">
+            <br/><br/>
+            Decimal: <input type="text" name="Dec">
+            <br/><br/>
+            Hexadecimal: <input type="text" name="Hex">
+        </label>
+        <label>
+            <h2>Suma y multiplicación:</h2>
+            Crea una página que sume/multiplique independiente del sistema.
+            <br/><br/>
+            <select name="sis" id="">
+                <option value="bin">Binario</option>
+                <option value="oct">Octal</option>
+                <option value="dec">Decimal</option>
+                <option value="hex">Hexadecimal</option>
+            </select>
+            <br/><br/>
+            Operando 1: <input type="text" name="op1">
+            <br/><br/>
+            Operando 2: <input type="text" name="op2">
+            <br/><br/>
+            Resultado: <input type="text" name="sol"> <span name="text_sol"></span>
+            <br/><br/>
+            <input type="button" name="suma" value="Sumar">
+            <input type="button" name="producto" value="Multiplicar">
+        </label>
+        <label>
+            <h2>Cálcula el área de una circunferencia:</h2>
+            Admitirá números decimales. Asegurate de que no aparezcan más de 4 decimales.
+            <br/><br/>
+            Una circunferencia de radio <input type="text" name="rad"> tiene un área de
+            <input type="text" name="area"> metros cuadrados.
+        </label>
+    </form>
+</body>
+</html>

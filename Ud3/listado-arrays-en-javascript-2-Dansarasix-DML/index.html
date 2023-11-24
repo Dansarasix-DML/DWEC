@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Daniel Marín López">
+    <script src="./js/main.js"></script>
+    <title>Arrays</title>
+</head>
+<body>
+    <h1>Listado de Arrays</h1>
+
+    <p><b>1. Indica los tres argumentos del método forEach a un array.<br/>
+    Demuestra su uso mediante un ejemplo.</b></p>
+
+    <p>Los tres argumentos que tiene forEach son:</p>
+    <ul>
+        <li><b>value</b>: El valor del array en una posición.</li>
+        <li><b>index</b>: El índice del array.</li>
+        <li><b>array</b>: El array pasado que trabajará el forEach</li>
+    </ul>
+    <p>Al array "asignaturas" imprimirá las asignatura<br/>
+    si su <i>element</i> es extrictamente igual a <i>array[index]</i>:</p>
+    
+    <p name="ejercicio1"></p>
+    
+    <p><b>2. Indica la utilidad del operador <i>in</i> con los arrays.<br/>
+    Demuestra su uso mediante un ejemplo.</b></p>
+
+    <p>El operador <i>in</i> se usa en los objetos para comprobar si una propiedad<br/>
+    existe en dicho objeto. Como la estructura <b><i>Objeto["propiedad"]</i></b><br/>
+    es la misma que la del array también funcionaría.</p>
+
+    <p>Usaremos el array "games" que tiene solo dos valores.</p>
+    <p name="ejercicio2"></p>
+
+    <p><b>3. Indica la función que comprueba si un objeto es o no un Array.<br/>
+    Demuestra su uso mediante un ejemplo.</b></p>
+
+    <p>La función que indica si un objeto es un array es <b><i>Array.isArray()</i></b><br/>
+    que devolverá true o false si ese elemento es un array o no.</p>
+    
+    <p>Usaremos Array.isArray() para comprobar si los siguientes elementos son arrays o no:</p>    
+    <p name="ejercicio3"></p>
+
+    <p><b>4. Crea  una función que cree un array de la dimensión indicada,<br/>
+    cuyo contenido sean los números naturales comenzando desde 0.</b></p>
+
+    <p>Podemos crear un input que recibe la longitud y que al enviarla<br/>
+    sea procesada por <b><i>crearArray()</i></b> para que devuelva un array con los números<br/>
+    aleatorios y lo imprima justo debajo del input.</p>
+    
+    <input type="text" name="dimension">
+    <input type="submit" name="envio" value="Enviar">
+    <br/>
+    <p name="ejercicio4"></p>
+    
+    <p><b>5. Crea una función que devuelva un array con cada uno de los argumentos.</b></p>
+
+    <p>Podemos crear un callback que use Array.from() que reciba un nº indefinido de valores<br/>
+    y luego imprimirlo.</p>
+    
+    <p name="ejercicio5"></p>
+
+    <p><b>6. Crea  una función que devuelva un array con cada uno de los argumentos.<br/>
+    En caso de que alguno de sus argumentos sea un array, que introduzca sus elementos uno a uno.</b></p>
+
+    <p>Podemos usar el mismo callback añadiendo el método <b><i>Array.flat()</i></b>.</p>
+    <q>
+        <b>Método array.flat([depth])</b>:<br/>
+        El método flat() crea una nueva matriz con todos los elementos de sub-array<br/>
+        concatenados recursivamente hasta la profundidad especificada.<br/><br/>
+        <b>Párametros: depth (opcional)</b>:<br/>
+        El nivel de profundidad que especifica qué tan profunda debe aplanarse<br/>
+        una estructura de matriz anidada. El valor predeterminado es 1.<br/><br/>
+        <b>Valor de retorno</b>:<br/>
+        Una nueva matriz con los elementos de la sub-matriz concatenados en ella.
+    </q>
+
+    <p name="ejercicio6"></p>
+
+    <p><b>7. Crea una función que elimine todos los undefined de un array.</b></p>
+
+    <p>Creamos un callback que devuelve el array pasado por párametro filtrando<br/>
+    usando <b><i>Array.filter()</i></b> con aquellos valores que no sean undefined.</p>
+
+    <p name="ejercicio7"></p>
+
+    <p><b>8. Indica la diferencia entre los siguientes métodos, y demuestra su uso con algunos arrays:<br/>
+    Array.prototype.forEach(), Array.prototype.every(), Array.prototype.some() y Array.prototype.filter().</b></p>
+    
+    <ul>
+        <li><b><i>Array.prototype.forEach()</i></b>: Método para recorrer un array.</li>
+        <li><b><i>Array.prototype.every()</i></b>: Método que devuelve true si todos los elementos cumplen un condición.</li>
+        <li><b><i>Array.prototype.some()</i></b>: Método que devuelve true si algunos elementos cumplen un condición.</li>
+        <li><b><i>Array.prototype.filter()</i></b>: Método para filtrar un array mediante una condición.</li>
+    </ul>
+
+    <p name="ejercicio8"></p>
+
+    <p><b>9. Averigua qué método es el más eficiente para manejarse con arrays.<br/>
+    Compruébalo mediante performance.now() o similares:</b></p>
+    <ol>
+        <li><b>Introduce 100 elementos en un array mediante push(), unshift(), directamente, fijando tamaño en new Array...</b></li>
+        <p>Usando <b><i>performance.now()</i></b> y guardando los métodos como callbacks relacionados a un nombre podemos medir<br/>
+        medir el tiempo que tarda cada uno en añadir 100 elementos en un array.</p>
+        <p name="ejercicio9-1"></p>
+        <li><b>Eliminar 100 elementos en un array mediante pop(), shift(), directamente, fijando tamaño...</b></li>
+        <p>Lo mismo aquí pero eliminando elementos.</p>
+        <p name="ejercicio9-2"></p>
+    </ol>
+
+</body>
+</html>

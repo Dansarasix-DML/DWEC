@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Daniel Marín López">
+    <script src="./js/main.js"></script>
+    <title>Listado de Map, Set, WeakMap y WeakSet</title>
+</head>
+<body>
+    <h1>Listado de  Map, Set, WeakMap y WeakSet</h1>
+
+    <p><b>1. Indica qué es un Set y crea uno partiendo<br/>
+    del array [1, 2, 3, 4, 4]. Justifica su tamaño.</b></p>
+
+    <p>Un set es una colección cuyos valores no se repiten, es decir son únicos.</p>
+
+    <p name="ejercicio1"></p>
+
+    <p><b>2. Justifica por qué funciona el encadenamiento en los métodos<br/>
+    de set "new Set().add(11).add(22)".</b></p>
+
+    <p>El encadenamiento funciona ya que ambos métodos son del mismo objeto<br/>
+    y por lo tanto se pueden concatenar para hacer la ejecución consecutiva.</p>
+
+    <p name="ejercicio2"></p>
+
+    <p><b>3. Indica cómo se devuelve un valor de un set.</b></p>
+
+    <p>Para devolver un valor de un set se pueden utilizar tanto<br/>
+    el método <b><i>has()</i></b> como un <b><i>Array.from()</i></b>.</p>
+
+    <p>El método <b><i>has()</i></b> devolverá true si el valor pasado<br/>
+    está dentro del set, mientras que <b><i>Array.from()</i></b> convierte<br/>
+    el set en un array lo cual permite acceder a los elementos directamente<br/>
+    usando los índices.</p>
+
+    <p name="ejercicio3"></p>
+
+    <p><b>4. Comparativa entre un array y un set: búsqueda de elementos,<br/>
+    eliminación de elementos, búsqueda del elemento NaN, control de duplicados.</b></p>
+    
+    <p name="ejercicio4"></p>
+
+    <p><b>5. Crea un set donde se almacenen los alumnos ausentes. Repítelos y muéstralos.</b></p>
+
+    <p>Creamos un set con alumnos duplicados y los imprimimos, debería la impresión</br>
+    mostrar que los duplicados no se han añadido.</p>
+
+    <p name="ejercicio5"></p>
+
+    <p>Aquí vemos que el nombre de María solo sale una vez ya que los valores repetidos</br>
+    son eliminados en los sets.</p>
+
+    <p><b>6. Indica qué es un Map y crea uno partiendo del array. Partiendo de él, crea tres arrays:<br/>
+    Uno con las claves, otro con los valores y otro con los objetos.</b></p>
+    
+    <p name="ejercicio6"></p>
+
+    <p><b>7. Demuestra que un Map admite claves de cualquier tipo: cadenas, null, NaN, null, funciones...</b></p>
+    
+    <p>En javascript se permiten claves de todo tipo (incluyendo NaN, funciones, etc.).</p>
+
+    <p name="ejercicio7"></p>
+
+    <p><b>8. Crea un map donde se almacenen los alumnos ausentes. Repítelos y muéstralos.</b></p>
+
+    <p name="ejercicio8"></p>
+
+    <p>Vemos que ha pesar de repetir un alumno, este no se muestra repetido. Aunque hay que tener<br/>
+    cuidado porque el Map no es tan estricto como el Set.</p>
+
+    <p><b>9. Crea una función "quitaLosRepes(array)" que devuelva un array con los elementos sin repetir.<br/>
+    Utiliza la característica del objeto Set: no admite valores duplicados.</b></p>
+
+    <p name="ejercicio9"></p>
+
+    <p><b>10. Averigua mediante código si un WeakSet admite objetos primitivos. Captura la excepción.</b></p>
+
+    <p name="ejercicio10"></p>
+
+    <p>Como podemos ver, los primitivos saltan una excepción ya que el WeakSet los rechaza<br/>
+    al solo admitir objetos.</p>
+
+    <p><b>11. Averigua mediante código si  WeakSet o WeakMap son iterables. Puedes utilizar for..of</b></p>
+
+    <p>WeakSet y WeakMap no son iterables con un for...of debido a que carecen de métodos como keys(),</br>
+    values() o entries() que permiten la iterción. Si intentas usar un bucle sobre ellos para iterarlos</br>
+    saltará una excepción como podemos observar aquí:</p>
+
+    <p name="ejercicio11"></p>
+
+</body>
+</html>
