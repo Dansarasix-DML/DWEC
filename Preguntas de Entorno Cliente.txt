@@ -1,0 +1,502 @@
+Preguntas de Entorno Cliente
+
+- ¿Cuál fue la fecha límite establecida por Adobe para dejar de admitir Flash Player?
+* Adobe dejó de admitir Flash Player después del 31 de diciembre de 2020.
+
+- ¿Qué razón argumentó Steve Jobs en 2010 para que Apple excluyera Flash de sus sistemas?
+* Steve Jobs argumentó que Flash no estaba preparada para el nuevo mundo de la tecnología móvil y el desarrollo táctil.
+
+- ¿Cuáles fueron las tecnologías mencionadas que Flash introdujo al comienzo de la Web?
+* Flash introdujo vídeos, "webcams" en vivo, realidad aumentada e incluso mejoró JavaScript con Actionscript 3.
+
+- ¿Qué acciones tomaron Google, Firefox y Microsoft con respecto al contenido en Flash Player en sus navegadores?
+* Google y Firefox anunciaron que comenzarían a bloquear el contenido en Flash Player en sus navegadores en 2015, y Microsoft también se sumó al cambio más tarde.
+
+- ¿Por qué Adobe recomendó a los usuarios que desinstalaran Flash Player después de su final de soporte?
+* Adobe recomendó a los usuarios que desinstalaran Flash Player para proteger sus sistemas después de que bloquearon la ejecución de contenido Flash en Flash Player a partir del 12 de enero de 2021.
+
+- ¿Qué significa el acrónimo AJAX en desarrollo web?
+* AJAX significa "JavaScript Asíncrono y XML".
+
+- ¿Cuáles son las dos capacidades principales de los navegadores que AJAX aprovecha en el desarrollo web?
+* Las dos capacidades principales de los navegadores que AJAX aprovecha son la posibilidad de hacer peticiones al servidor sin tener que volver a cargar la página y la capacidad de analizar y trabajar con documentos XML.
+
+- ¿Qué aplicaciones populares ayudaron a popularizar el uso de AJAX en el desarrollo web?
+* Aplicaciones como Gmail, Google Suggest y Google Maps ayudaron a popularizar el uso de AJAX en el desarrollo web.
+
+- ¿Por qué es importante la capacidad de hacer peticiones al servidor sin volver a cargar la página en el contexto de AJAX?
+* Es importante porque permite que las aplicaciones web sean más interactivas y respondan de manera más rápida a las acciones del usuario sin necesidad de recargar toda la página.
+
+- ¿Qué ventaja proporciona la capacidad de analizar y trabajar con documentos XML en el contexto de AJAX?
+* La capacidad de analizar y trabajar con documentos XML permite a las aplicaciones web obtener datos estructurados del servidor de manera eficiente, lo que facilita la actualización dinámica del contenido sin recargar toda la página.
+
+- ¿Qué significa la sigla "API" en el contexto de las construcciones integradas en el navegador?
+* "API" significa "Interfaz de Programación de Aplicaciones" y se refiere a las construcciones integradas en el navegador que permiten implementar funcionalidades de manera más sencilla mediante JavaScript.
+
+- ¿Cuál es el propósito de la API de geolocalización en el navegador?
+* La API de geolocalización proporciona acceso a la información de ubicación geográfica asociada con el dispositivo.
+
+- ¿Cuáles son los dos mecanismos de almacenamiento web mencionados en la descripción?
+* Los dos mecanismos de almacenamiento web mencionados son "sessionStorage" y "localStorage".
+
+- ¿Qué tecnologías permiten obtener datos del servidor y actualizar pequeñas secciones de una página web?
+* Las tecnologías que permiten obtener datos del servidor y actualizar pequeñas secciones de una página web son "XMLHttpRequest", la "Fetch API" y la técnica conocida como "Ajax".
+
+- ¿Cuáles son dos ejemplos de APIs utilizadas para dibujar y manipular gráficos en navegadores?
+* Dos ejemplos de APIs utilizadas para dibujar y manipular gráficos en navegadores son "Canvas" y "WebGL", que permiten crear escenas 2D y 3D, respectivamente.
+
+- ¿Qué son las APIs de terceros?
+* Las APIs de terceros son construcciones integradas en plataformas de terceros que permiten usar algunas de las funcionalidades de esa plataforma en tus páginas web.
+
+- ¿Qué funcionalidad permite la YouTube API en un sitio web?
+* La YouTube API permite visualizar vídeos en un sitio web.
+
+- ¿Cuál es el propósito de la Twitter API en un sitio web?
+* La Twitter API permite visualizar Tweets en un sitio web.
+
+- ¿Para qué se utiliza la Google Maps API en páginas web?
+* La Google Maps API se utiliza para realizar diversas acciones relacionadas con mapas en páginas web, incluyendo la incorporación de mapas interactivos de Google Maps.
+
+- ¿Cuál es la función de las APIs de Facebook en un sitio web?
+* Las APIs de Facebook permiten visualizar información de Facebook en un sitio web, lo que puede incluir publicaciones, comentarios y otros elementos de la plataforma.
+
+- ¿Qué son las APIs web?
+* Las APIs web son construcciones disponibles en lenguajes de programación que permiten a los desarrolladores crear funcionalidades complejas de manera más sencilla.
+
+- ¿Cómo se dividen generalmente las APIs de JavaScript del lado cliente?
+* Las APIs de JavaScript del lado cliente se dividen generalmente en dos categorías: las APIs de navegador, que están integradas en el navegador web, y las APIs de terceros, que no están incluidas por defecto en el navegador y se obtienen desde la web.
+
+- ¿Cuál es un ejemplo de función de la API de Geolocalización?
+*  La API de Geolocalización proporciona construcciones simples de JavaScript para obtener datos de ubicación, como tu ubicación geográfica, que se pueden utilizar, por ejemplo, para trazar en un mapa de Google.
+
+- ¿Qué permite hacer la API de Audio Web en el navegador?
+* La API de Audio Web permite a los desarrolladores controlar el audio en el navegador, seleccionar fuentes de audio, agregar efectos al audio, crear visualizaciones de audio y aplicar efectos espaciales, entre otras funcionalidades.
+
+- ¿Cómo se diferencia una API de terceros de una API de navegador?
+* Una API de terceros no está incluida por defecto en el navegador y se debe obtener desde la web, mientras que una API de navegador está integrada en el navegador web y permite manejar datos del navegador y su entorno informático.
+
+- ¿Cuál es una de las ventajas clave de una aplicación web en términos de disponibilidad y acceso?
+* Una de las ventajas clave de una aplicación web es que es ubicua, lo que significa que está disponible en casi cualquier equipo que tenga un navegador web incorporado, sin necesidad de instalar una aplicación.
+
+- ¿Por qué las aplicaciones web son auto-actualizables?
+* Las aplicaciones web no residen en el equipo del usuario, sino en un servidor web, lo que les permite ser actualizadas sin necesidad de la interacción del usuario.
+
+- ¿Cuál es una desventaja común de las aplicaciones web en términos de disponibilidad?
+* Una desventaja común de las aplicaciones web es que su disponibilidad depende de factores como una conexión a Internet, el servidor de la aplicación y, en algunas situaciones, del navegador utilizado.
+
+- ¿Por qué las aplicaciones web están limitadas en cuanto a lo que pueden acceder en el equipo del usuario?
+* Las aplicaciones web están limitadas en cuanto a lo que pueden acceder en el equipo del usuario debido al concepto de "sandboxing" del navegador, que impone restricciones para garantizar la seguridad y privacidad del usuario.
+
+- ¿Cómo ha evolucionado JavaScript y HTML5 en relación con las aplicaciones web?
+* JavaScript y HTML5 han evolucionado para superar algunas de las desventajas de las aplicaciones web. Ahora permiten realizar peticiones al servidor sin recargar toda la página, tener comunicación interactiva con el servidor, operar sin conexión, y realizar acciones como leer y escribir archivos en el equipo del usuario.
+
+- ¿Qué es un applet en el contexto de desarrollo web?
+* Un applet es un componente Java que se puede incluir en una página web y se ejecuta en el navegador del usuario. Se programa en Java y se beneficia de su potencia y flexibilidad.
+
+- ¿En qué espacio se ejecutan los applets en una página web?
+* Los applets se ejecutan en el espacio de la página web, a través de un módulo o extensión específica en el navegador.
+
+- ¿Cómo se diferencia la programación de applets en Java de los lenguajes de script como JavaScript?
+* Los applets se programan en Java y se envían al cliente precompilados, lo que los diferencia de los lenguajes de script como JavaScript, que se ejecutan directamente en el navegador del cliente.
+
+- ¿Cuál es una ventaja importante de los applets en comparación con JavaScript en términos de compatibilidad con navegadores y sistemas operativos?
+* Una ventaja importante de los applets es que son menos dependientes del navegador y pueden ejecutarse de manera más independiente del sistema operativo del ordenador donde se ejecutan.
+
+- ¿Por qué los applets Java han perdido popularidad en el desarrollo web en los navegadores más recientes?
+* Los applets Java han perdido popularidad en el desarrollo web debido a que la tecnología necesaria para su ejecución ya no es soportada por los navegadores más utilizados, en parte debido a preocupaciones de seguridad.
+
+- ¿Qué es el atributo "async" en la etiqueta script y qué indica al navegador?
+* El atributo "async" es un atributo booleano que indica al navegador si es posible ejecutar el código JavaScript tan pronto como se cargue. Esto no afecta a los scripts escritos directamente en la etiqueta script.
+
+- ¿Cómo se comportan los scripts cargados con el atributo "async" en términos de descarga y ejecución?
+* Los scripts cargados con el atributo "async" se descargan en un hilo aparte, sin bloquear el renderizado de la página, y se ejecutan tan pronto como el script se termine de descargar.
+
+- ¿Hay garantía de que los scripts cargados con "async" se ejecuten en un orden específico?
+* No, no hay garantía de que los scripts cargados con "async" se ejecuten en un orden específico. Pueden ejecutarse en el orden en que se descarguen, lo que puede variar.
+
+- ¿Cuándo es recomendable utilizar el atributo "async" en una etiqueta script?
+* Es recomendable utilizar "async" cuando los scripts de la página se ejecutan de forma independiente y no dependen de otros scripts de la página, ya que no se puede confiar en el orden de carga.
+
+- ¿Por qué es importante tener en cuenta el orden de carga al usar "async" en scripts que dependen de otros?
+* Es importante tener en cuenta el orden de carga al usar "async" porque si un script depende de otro que se carga después, puede generar errores ya que las dependencias pueden no estar definidas en el momento de la ejecución.
+
+- ¿Cuál es el problema común que puede ocurrir cuando se carga JavaScript en una página web antes de que se analice todo el HTML?
+* El problema común es que si el JavaScript se carga y procesa antes de que se analice todo el HTML, el código JavaScript que manipula elementos en la página (DOM) puede no funcionar correctamente.
+
+- ¿Qué evento se puede utilizar para asegurarse de que el código JavaScript se ejecute después de que se carguen todos los elementos del árbol DOM?
+* Se puede utilizar el evento "DOMContentLoaded" para asegurarse de que el código JavaScript se ejecute después de que se carguen todos los elementos del árbol DOM.
+
+- ¿Qué atributo se puede utilizar en la etiqueta script para indicar al navegador que el script se debe ejecutar después de cargar el árbol DOM?
+* El atributo "defer" se puede utilizar en la etiqueta script para indicar al navegador que el script se debe ejecutar después de cargar el árbol DOM.
+
+- ¿Cuál es la diferencia entre los atributos "async" y "defer" en la etiqueta script en términos de carga y ejecución de scripts?
+* Ambos atributos, "async" y "defer," indican al navegador que descargue los scripts en un hilo separado, pero "defer" asegura que el script se ejecute después de cargar el árbol DOM, mientras que "async" no garantiza un orden específico de ejecución.
+
+- ¿Cómo ayudan los atributos "async" y "defer" a evitar que los scripts bloqueen la carga de la página?
+* Los atributos "async" y "defer" permiten que los scripts se descarguen en un hilo separado mientras se sigue cargando el resto de la página (el DOM, etc.), lo que evita que los scripts bloqueen la carga de la página.
+
+- ¿Qué es Chromium en el contexto de los navegadores web?
+* Chromium es una base de código abierto utilizada para desarrollar navegadores web, y es mantenida por varias compañías. Sirve como punto de partida para crear versiones personalizadas de navegadores web con características adicionales.
+
+- ¿Cuándo comenzó el proyecto Chromium y quién lo inició?
+* El proyecto Chromium comenzó en 2008 cuando Google lanzó Chrome 1.0. Tres meses después, Google liberó su código fuente y lanzó el proyecto Chromium.
+
+- ¿Cuál fue la motivación principal detrás del proyecto Chromium?
+* La principal motivación detrás del proyecto Chromium fue obtener la ayuda de la comunidad para mejorar el motor del navegador de manera colaborativa y permitir que tanto Google como otros pudieran desarrollar navegadores basados en este código fuente compartido.
+
+- ¿Qué navegadores actualmente comparten la misma base común de Chromium?
+* Google Chrome, Opera, Vivaldi, Yandex y Microsoft Edge son navegadores que comparten la misma base común de Chromium.
+
+- ¿Cuáles son algunas de las diferencias entre estos navegadores basados en Chromium?
+* Las diferencias entre los navegadores basados en Chromium pueden incluir plugins añadidos, mantenimiento dedicado, la forma en que trabajan con los procesos, y otras opciones diseñadas por los desarrolladores para hacer que cada navegador sea único.
+
+- ¿Qué elementos comunes forman parte del modelo cliente-servidor en sitios web?
+* Los elementos comunes en el modelo cliente-servidor de sitios web son el lado del servidor, el lado del cliente y la red.
+
+- ¿Qué incluye el lado del servidor en el contexto de un sitio web?
+* El lado del servidor incluye el hardware y software del servidor web, así como diversas tecnologías de programación y tecnologías incrustadas. Esto puede abarcar desde programas CGI escritos en PERL hasta aplicaciones multihilo basadas en Java, incluyendo tecnologías de servidor de bases de datos que admiten múltiples sitios web.
+
+- ¿A qué se refiere el lado del cliente en el contexto de un sitio web?
+* El lado del cliente se refiere a los navegadores web y está respaldado por tecnologías como HTML, CSS y JavaScript, que se utilizan para crear la presentación de la página y proporcionar características interactivas.
+
+- ¿Cuál es la función de la red en el modelo cliente-servidor de sitios web?
+* La red describe los diferentes elementos de conectividad utilizados para mostrar el sitio web al usuario, asegurando la transmisión de datos entre el servidor y el cliente a través de Internet.
+
+- ¿Cuáles son algunos ejemplos de tecnologías de programación utilizadas en el lado del servidor?
+* Algunos ejemplos de tecnologías de programación utilizadas en el lado del servidor incluyen CGI, Java, tecnologías de servidor de bases de datos y muchas otras, dependiendo de las necesidades específicas del sitio web.
+
+- ¿Qué es el atributo "defer" en la etiqueta script y cuál es su propósito?
+* El atributo "defer" es un atributo booleano que indica al navegador que el script debe ser ejecutado después de que el documento entero sea analizado. Su propósito es retrasar la ejecución del script hasta que el contenido del DOM esté completamente cargado.
+
+- ¿Cómo se comportan los scripts cargados con el atributo "defer" en términos de orden de ejecución?
+* Los scripts cargados con el atributo "defer" se ejecutan en el orden en que aparecen en la página, y se ejecutan tan pronto como se descargan el script y el contenido del DOM esté completamente cargado.
+
+- ¿Cuál es la ventaja principal de utilizar el atributo "defer" en la etiqueta script?
+* La ventaja principal de utilizar el atributo "defer" es que permite cargar y ejecutar scripts de manera eficiente, evitando que bloqueen la carga de la página y garantizando que se ejecuten en el orden especificado.
+
+- ¿Cuándo es útil utilizar el atributo "defer" en scripts en una página web?
+* Es útil utilizar el atributo "defer" cuando se quiere asegurar que los scripts se ejecuten después de que todo el contenido del DOM esté cargado, lo que es especialmente útil para scripts que dependen de elementos en el DOM.
+
+- ¿Cómo se carga y ejecuta el conjunto de scripts en el ejemplo proporcionado?
+* Los scripts se cargarán en el orden indicado en la página y no se ejecutarán hasta que el contenido del DOM esté completamente cargado.
+
+- ¿Qué representa el entorno de ejecución cuando se carga una página web en un navegador?
+* El entorno de ejecución es como una fábrica que toma el código HTML, CSS y JavaScript de una página web y genera el producto final, es decir, la página web que se muestra en el navegador.
+
+- ¿Cuál es uno de los usos más comunes de JavaScript en el desarrollo web?
+* Uno de los usos más comunes de JavaScript es la modificación dinámica del HTML y el CSS para actualizar la interfaz de usuario a través de la API del modelo de objetos del documento (DOM).
+
+- ¿Por qué es importante considerar el orden de carga y ejecución en una página web que utiliza JavaScript?
+* Es importante considerar el orden de carga y ejecución porque si JavaScript se carga y ejecuta antes de que se carguen el HTML y el CSS a los que afecta, pueden producirse errores en la página.
+
+- ¿Cuáles son dos formas comunes de solucionar el problema de ejecutar código JavaScript cuando los elementos del DOM están cargados?
+* Dos formas comunes de solucionar este problema son utilizar el evento DOMContentLoaded desde el código JavaScript y usar el atributo "defer" en la etiqueta script para que el código se ejecute al final de la carga HTML y CSS.
+
+- ¿Cuál es la ventaja de usar el evento DOMContentLoaded para ejecutar código JavaScript?
+* La ventaja de usar el evento DOMContentLoaded es que garantiza que el código JavaScript se ejecute una vez que todos los elementos del DOM estén cargados, evitando así errores relacionados con la carga secuencial.
+
+- ¿Cuál es la diferencia clave entre una librería y un framework en el contexto de JavaScript?
+* La diferencia clave es la "Inversión del control". En una librería, el desarrollador tiene el control al llamar a sus métodos, mientras que en un framework, el control se invierte, y el framework llama al código del desarrollador.
+
+- ¿Qué tipo de tecnologías suelen incluir los frameworks JavaScript además de JavaScript en sí?
+* Los frameworks JavaScript suelen incluir paquetes de HTML, CSS y otras tecnologías además de JavaScript.
+
+- ¿Cuál es el propósito principal de un framework JavaScript en el desarrollo web?
+* El propósito principal de un framework JavaScript es permitir a los desarrolladores crear aplicaciones web completas desde cero proporcionando una estructura y funcionalidades predefinidas.
+
+- ¿Puedes mencionar ejemplos de algunos frameworks JavaScript populares?
+* Algunos ejemplos de frameworks JavaScript populares son Angular y Ember.
+
+- ¿Cómo se diferencia el control en el desarrollo entre una librería y un framework?
+* En el desarrollo con una librería, el desarrollador tiene el control y llama a sus métodos. En un framework, el control se invierte, y el framework llama al código del desarrollador, determinando el flujo de la aplicación.
+
+- ¿Cuál es el motor de renderizado utilizado por Google Chrome en su desarrollo?
+* Google Chrome utiliza el motor de renderizado Blink.
+
+- ¿Qué navegador web es considerado el más utilizado en la web según la información proporcionada?
+* Según la información, Google Chrome se considera el navegador más utilizado en la web.
+
+- ¿Qué innovación importante introdujo Google Chrome en el mundo de los navegadores web cuando se lanzó en 2008?
+* Google Chrome se destacó por su rapidez para cargar sitios web, su diseño minimalista y su interfaz de usuario simple cuando se lanzó en 2008.
+
+- ¿Cómo ha evolucionado la competencia en el mercado de los navegadores web en términos de privacidad y rendimiento desde la introducción de Google Chrome en 2008?
+* La competencia en el mercado de los navegadores ha llevado a un enfoque en la mejora de la privacidad y el rendimiento, con Firefox trabajando en rediseñar su interfaz y ofrecer mejoras de privacidad y rendimiento de manera predeterminada.
+
+- ¿Qué motor JavaScript utiliza Google Chrome, y cómo se compara en términos de velocidad con otros navegadores mencionados?
+* Google Chrome utiliza el motor JavaScript V8, que se menciona como teóricamente dos veces más rápido que Firefox 3 y la versión beta de Safari 4 en términos de velocidad.
+
+- ¿Cómo se integra JavaScript en una página HTML utilizando la etiqueta <script> en la filosofía de "JavaScript interno"?
+* Para la integración de JavaScript interno, la etiqueta <script> debe colocarse antes de la etiqueta </head>, y es importante tener en cuenta que el árbol DOM no estará cargado hasta ese momento, por lo que se utiliza el evento DOMContentLoaded.
+
+- ¿Cuál es la forma recomendada de integrar JavaScript en una página HTML si se desea aislar el diseño del comportamiento y facilitar la depuración?
+* La forma recomendada es utilizar "JavaScript externo" colocando el código JS en un documento externo.
+
+- ¿Por qué se considera una mala práctica y ineficiente la integración de JavaScript en línea en HTML?
+* Se considera una mala práctica porque mezclar HTML con JavaScript dificulta el mantenimiento y la legibilidad del código. Además, es ineficiente porque requiere incluir el atributo onclick en cada elemento HTML al que se desee aplicar JavaScript.
+
+- ¿Dónde se ubica la etiqueta <script> en la integración de JavaScript externo en una página HTML?
+* En la integración de JavaScript externo, la etiqueta <script> se coloca en el documento HTML para referenciar un archivo externo que contiene el código JavaScript.
+
+- ¿Qué evento se menciona como importante al utilizar JavaScript interno para garantizar que el código se ejecute cuando el árbol DOM esté completamente cargado?
+* El evento mencionado es "DOMContentLoaded", que se utiliza para asegurarse de que el código JavaScript interno se ejecute cuando el árbol DOM esté completamente cargado.
+
+- ¿Qué función cumple el atributo "integrity" en una etiqueta script en HTML?
+* El atributo "integrity" se utiliza para proporcionar metadatos que permiten al navegador verificar que el archivo entregado no ha sido manipulado inesperadamente, garantizando la integridad de los recursos secundarios.
+
+- ¿Cuál es el propósito principal de la verificación de integridad de recursos secundarios (SRI) en la carga de archivos en un navegador web?
+* La verificación de integridad de recursos secundarios (SRI) tiene como propósito garantizar que los archivos entregados no hayan sido modificados, lo que mejora la seguridad al cargar recursos externos en una página web.
+
+- ¿Por qué es importante utilizar el atributo "integrity" al incluir recursos externos, como en el ejemplo de jQuery CDN?
+* Es importante utilizar el atributo "integrity" para asegurarse de que los recursos externos, como jQuery CDN, no hayan sido alterados, proporcionando una capa adicional de seguridad al cargar bibliotecas o archivos desde ubicaciones externas.
+
+- ¿Qué información específica se proporciona en el atributo "integrity" de la etiqueta script en el ejemplo de jQuery CDN?
+* En el ejemplo de jQuery CDN, el atributo "integrity" contiene un valor hash (SHA-256) que representa la firma criptográfica del archivo jQuery para verificar su integridad.
+
+- ¿Cuál es el papel del atributo "crossorigin" en la etiqueta script del ejemplo de jQuery CDN?
+* El atributo "crossorigin" se utiliza para especificar cómo se deben manejar las solicitudes de recursos cruzados (cross-origin). En el ejemplo, "crossorigin" se establece en "anonymous" para indicar que la solicitud no debe incluir credenciales del usuario en la solicitud HTTP.
+
+- ¿Cuál es el propósito principal de JavaScript en el contexto de las páginas web y aplicaciones web?
+* El propósito principal de JavaScript es permitir la implementación de interactividad en páginas web y aplicaciones web, lo que incluye la manipulación del contenido a través del DOM, la gestión de datos con AJAX y IndexedDB, la creación de gráficos con canvas y la interacción con dispositivos a través de APIs, entre otras cosas.
+
+- ¿En qué otros entornos de programación además de los navegadores se puede utilizar JavaScript?
+* JavaScript también se puede utilizar en entornos de programación fuera de los navegadores, como Node.js.
+
+- ¿Cuál es la relación de JavaScript con las tecnologías web como HTML y CSS?
+* JavaScript es considerado la tercera capa de las tecnologías web junto con HTML y CSS. Mientras que HTML se utiliza para estructurar el contenido y CSS para aplicar estilos, JavaScript permite crear contenido dinámico y agregar interactividad a las páginas web.
+
+- ¿Qué significa la sigla "DOM" en relación con JavaScript?
+* La sigla "DOM" se refiere al "Document Object Model" (Modelo de Objetos del Documento) y representa la representación en memoria de la estructura de un documento HTML, que JavaScript utiliza para interactuar con el contenido de la página web.
+
+- ¿Por qué JavaScript se considera uno de los lenguajes más utilizados en el mundo en el contexto web?
+* JavaScript se considera uno de los lenguajes más utilizados debido a su capacidad para aprovechar las APIs disponibles en los navegadores, su crecimiento y mejora en el rendimiento, y su versatilidad en la creación de contenido dinámico, multimedia y funciones interactivas en páginas y aplicaciones web.
+
+- ¿Cuál es la principal diferencia entre los lenguajes interpretados y los lenguajes compilados?
+* La principal diferencia radica en el momento en que se transforma el código en código ejecutable. En los lenguajes interpretados, el código se ejecuta directamente desde su forma de texto original, mientras que en los lenguajes compilados, se transforma en código máquina antes de su ejecución.
+
+- ¿Cómo se ejecuta el código JavaScript en un navegador web en términos de interpretación o compilación?
+* JavaScript se ejecuta en un navegador web como un lenguaje de programación interpretado. El navegador recibe el código JavaScript en su forma de texto original y lo ejecuta directamente, aunque puede utilizar la compilación en tiempo real (JIT) para mejorar el rendimiento.
+
+- ¿Qué es la compilación en tiempo real (JIT) y cómo se relaciona con JavaScript?
+* La compilación en tiempo real (JIT) es una técnica utilizada en la ejecución de JavaScript para mejorar el rendimiento. Con JIT, el código fuente de JavaScript se compila en un formato binario más rápido mientras se ejecuta el script, lo que permite una ejecución más rápida.
+
+- ¿En qué se diferencia el proceso de ejecución de JavaScript de lenguajes como C/C++, que son lenguajes compilados?
+* En lenguajes como C/C++, el código fuente se compila previamente en código máquina antes de su ejecución, lo que genera un archivo binario ejecutable. En JavaScript, la compilación en tiempo real ocurre durante la ejecución, y el navegador interpreta el código directamente desde su forma de texto original.
+
+- ¿Cómo se puede describir JavaScript en términos de su peso y naturaleza en comparación con otros lenguajes de programación?
+* JavaScript se describe como un lenguaje de programación interpretado ligero. Aunque utiliza técnicas de compilación en tiempo real para mejorar el rendimiento, se ejecuta directamente desde su forma de texto original, lo que lo hace adecuado para su uso en navegadores web y otros entornos de programación ligeros.
+
+- ¿Quién es el creador original de JavaScript y en qué año se introdujo por primera vez en Netscape Navigator?
+* JavaScript fue concebido por Brendan Eich y se introdujo por primera vez en Netscape Navigator 2.0 en septiembre de 1995.
+
+- ¿Cuál fue la respuesta de Internet Explorer a la introducción de JavaScript y cuándo se agregó la compatibilidad con este lenguaje?
+* Internet Explorer 3.0 introdujo la compatibilidad con JavaScript bajo el nombre de JScript en agosto de 1996.
+
+- ¿Qué es ECMAScript y cuándo comenzó Netscape a trabajar con ECMA International para estandarizar JavaScript?
+* ECMAScript es el estándar de la industria para JavaScript. Netscape comenzó a trabajar con ECMA International en noviembre de 1996 para estandarizar JavaScript, que se especifica en ECMA-262.
+
+- ¿Cuándo se lanzó la sexta edición de ECMAScript (ECMA-262) y cuál es su importancia en la historia de JavaScript?
+* La sexta edición de ECMAScript se lanzó en junio de 2015 y es importante porque es la especificación de scripting en la que se basa JavaScript. A partir de esta edición, ECMA International se ha dedicado a actualizar JavaScript anualmente.
+
+- ¿Cuál es el papel de Node.js en la popularidad de JavaScript y cuál es su relación con el motor V8 de Chrome?
+* Node.js es un entorno de ejecución de JavaScript multiplataforma que ha contribuido a la popularidad de JavaScript fuera del navegador. Fue creado con el motor de JavaScript V8 de Chrome y permite a los desarrolladores utilizar JavaScript para automatizar tareas en una computadora, así como crear servidores HTTP y Web Sockets completamente funcionales.
+
+- ¿Por qué JavaScript tiende a ser rápido en comparación con otros lenguajes de programación?
+* JavaScript tiende a ser rápido porque a menudo se ejecuta inmediatamente dentro del navegador del cliente, lo que evita la necesidad de llamadas a un servidor backend y admite la compilación JIT (justo a tiempo) para una ejecución más rápida.
+
+- ¿Qué hace que la sintaxis de JavaScript sea relativamente fácil de aprender en comparación con otros lenguajes populares?
+* La sintaxis de JavaScript se inspiró en Java, lo que la hace relativamente fácil de aprender en comparación con otros lenguajes como C++.
+
+- ¿Cómo ha contribuido Node.js a la popularidad de JavaScript?
+* Node.js ha contribuido a la popularidad de JavaScript al permitir su uso en el lado del servidor, lo que ha llevado a un crecimiento en el uso de JavaScript en el backend y ha generado una abundancia de recursos de aprendizaje.
+
+- ¿Cuál es la ventaja de JavaScript en términos de interoperabilidad y su capacidad para insertarse en cualquier página web?
+* JavaScript se puede insertar en cualquier página web, lo que lo hace altamente interoperable y utilizable en varios tipos de aplicaciones y entornos.
+
+- ¿Cómo puede JavaScript mejorar la interfaz de usuario y la experiencia del usuario en un sitio web?
+* JavaScript puede utilizarse para crear características como arrastrar y soltar y controles deslizantes, mejorando así la interfaz de usuario y la experiencia en un sitio web.
+
+- ¿Por qué la seguridad del lado del cliente es una preocupación en JavaScript?
+*  La seguridad del lado del cliente es una preocupación porque los errores y descuidos en el código JavaScript pueden explotarse con fines maliciosos, lo que a veces lleva a la desactivación de JavaScript por parte de algunos usuarios.
+
+- ¿Cuál es uno de los desafíos en cuanto a la compatibilidad de navegadores al utilizar JavaScript?
+* Uno de los desafíos es que los diferentes navegadores pueden interpretar el código JavaScript de manera diferente, lo que puede generar problemas de compatibilidad. Aunque las diferencias son mínimas en la actualidad, se recomienda probar el script en todos los navegadores principales.
+
+- ¿Qué son las bibliotecas de JavaScript y cuál es su propósito principal en el desarrollo web?
+* Las bibliotecas de JavaScript son conjuntos de funciones personalizadas que se pueden agregar a una página web para acelerar o habilitar la escritura de funcionalidades comunes. Su propósito principal es simplificar y agilizar el desarrollo web al proporcionar funciones predefinidas y reutilizables.
+
+- ¿Puedes mencionar algunos ejemplos de bibliotecas populares de JavaScript?
+* Algunos ejemplos de bibliotecas populares de JavaScript incluyen jQuery, Mootools y React, entre otros.
+
+- ¿Cuál es el propósito principal de jQuery en el desarrollo web?
+* jQuery se utiliza principalmente para simplificar la manipulación del DOM, gestionar eventos, realizar animaciones y realizar llamadas AJAX en el desarrollo web.
+
+- ¿En qué contexto se utiliza Mootools y cuáles son algunas de sus características destacadas?
+* Mootools es una biblioteca de JavaScript que se utiliza para mejorar la interacción y la funcionalidad en el lado del cliente. Ofrece características como efectos de animación y manipulación avanzada del DOM.
+
+- ¿Qué tipo de biblioteca es React y cuál es su principal enfoque en el desarrollo web?
+* React es una biblioteca de JavaScript desarrollada por Facebook que se centra en la construcción de interfaces de usuario interactivas y reactivas. Se utiliza para crear aplicaciones web de una sola página (SPA) y se destaca por su enfoque en la creación de componentes reutilizables.
+
+- ¿Qué significa la sigla "MDN" en MDN Web Docs y cuál es su propósito principal?
+* La sigla "MDN" significa "Mozilla Developer Network", y MDN Web Docs es el sitio web oficial de Mozilla para la documentación de estándares web y proyectos relacionados con Mozilla. Su propósito principal es proporcionar recursos y documentación para desarrolladores web.
+
+- ¿Quiénes son los principales responsables de mantener MDN Web Docs y qué tipo de contenido se encuentra en el sitio?
+* MDN Web Docs es mantenido por la comunidad de desarrolladores voluntarios. El sitio alberga una amplia gama de documentos sobre tecnologías web, incluyendo HTML5, JavaScript, CSS, Web APIs, Django, Node.js, WebExtensions y MathML.
+
+- ¿Cuál es la importancia de MDN Web Docs para la comunidad de desarrolladores web?
+* MDN Web Docs es una fuente esencial de información y documentación para desarrolladores web. Proporciona recursos útiles y detallados sobre tecnologías web y estándares, lo que facilita el aprendizaje y la referencia para los desarrolladores en todo el mundo.
+
+- ¿Qué tipo de tecnologías web se cubren en MDN Web Docs y cómo pueden beneficiar a los desarrolladores?
+* MDN Web Docs cubre una amplia variedad de tecnologías web, desde lenguajes como HTML, CSS y JavaScript hasta frameworks y bibliotecas como Node.js y WebExtensions. Esto beneficia a los desarrolladores al proporcionar información actualizada y detallada sobre las herramientas y tecnologías que utilizan en su trabajo.
+
+- ¿Cómo se puede acceder a MDN Web Docs y aprovechar su contenido como desarrollador?
+* MDN Web Docs es accesible en línea a través del sitio web oficial. Los desarrolladores pueden utilizar el contenido de MDN como referencia, guía de aprendizaje y recurso de solución de problemas para mejorar sus habilidades y conocimientos en el desarrollo web.
+
+- ¿Qué es Microsoft Edge y cuál fue su propósito original cuando se lanzó en 2015?
+* Microsoft Edge es el navegador web desarrollado por Microsoft. Originalmente, se lanzó en 2015 para reemplazar a Internet Explorer y competir con otros navegadores como Firefox y Chrome.
+
+- ¿Cuándo se produjo la transición definitiva de Internet Explorer a Microsoft Edge como el navegador principal de Microsoft?
+* La transición definitiva de Internet Explorer a Microsoft Edge se produjo en junio de 2022, cuando Edge reemplazó completamente a Internet Explorer. Sin embargo, Internet Explorer 11 seguirá teniendo soporte hasta el 13 de enero de 2032.
+
+- ¿Qué motores de renderizado y JavaScript utilizaba Microsoft Edge antes y después de su transición?
+* Antes de la transición, Microsoft Edge utilizaba el motor de renderizado EdgeHTML y el motor JavaScript Chakra. Después de la transición, Edge adoptó Blink, el motor de Chrome, y el motor JavaScript V8 de Chromium.
+
+- ¿Qué diferencia a Microsoft Edge, basado en Chromium, de otros navegadores basados en el mismo proyecto, como Chrome?
+* A pesar de estar basado en la base de Chromium de Google, Microsoft Edge presenta funcionalidades únicas que lo diferencian de Google Chrome, lo que incluye integración con servicios de Microsoft, características de privacidad mejoradas y una interfaz de usuario personalizable.
+
+- ¿Por qué Microsoft decidió relanzar Edge como un navegador basado en Chromium y cuándo se produjo esta transición?
+* Microsoft decidió relanzar Edge como un navegador basado en Chromium para mejorar la compatibilidad y ofrecer una experiencia de navegación más sólida. La transición se produjo en enero de 2020, cuando Microsoft Edge basado en Chromium reemplazó las versiones anteriores de Edge.
+
+- ¿Qué son los intérpretes de JavaScript o motores JS y cuál es su función en las aplicaciones?
+* Los intérpretes de JavaScript o motores JS son componentes que ejecutan y procesan código JavaScript en las aplicaciones. Su función principal es interpretar y ejecutar el código JavaScript para que las aplicaciones puedan funcionar correctamente.
+
+- ¿Cuáles son algunos ejemplos de navegadores que utilizan el motor V8 para ejecutar JavaScript?
+* El motor V8 se utiliza en navegadores como Google Chrome, Chromium, Microsoft Edge, Brave y Opera. También se utiliza en el lado del servidor en aplicaciones como Couchbase, MongoDB y Node.js.
+
+- ¿Qué motor JS se utiliza en el navegador Mozilla Firefox?
+* Mozilla Firefox utiliza el motor SpiderMonkey para ejecutar JavaScript.
+
+- ¿Cuál es el motor JS utilizado en el navegador Safari?
+* El navegador Safari utiliza el motor JavaScriptCore para ejecutar JavaScript.
+
+- ¿Cuál es la importancia de estos motores JS en la experiencia de navegación y en el funcionamiento de las aplicaciones web?
+* Estos motores JS son fundamentales para la ejecución eficiente de código JavaScript en navegadores y aplicaciones web. Contribuyen en gran medida a la velocidad y la capacidad de respuesta de las aplicaciones web, lo que mejora la experiencia del usuario en línea.
+
+- ¿Qué es Mozilla Firefox y cuál es su enfoque principal como navegador web?
+* Mozilla Firefox es un navegador web de código abierto desarrollado por la Corporación Mozilla y la Fundación Mozilla. Su enfoque principal incluye proporcionar un navegador libre y de código abierto con un enfoque en la privacidad y la protección de datos en línea.
+
+- ¿Qué motores utiliza Mozilla Firefox para renderizar páginas web y para su motor JavaScript?
+* Mozilla Firefox utiliza el motor Gecko para renderizar páginas web y el motor SpiderMonkey como su motor JavaScript.
+
+- ¿Cuál es la posición de Mozilla Firefox en la competencia con Google Chrome en términos de utilidad y privacidad?
+* Mozilla considera que Firefox y Chrome están cerca en términos de utilidad, pero señala que Firefox se destaca en privacidad. Firefox se compromete a proteger los datos en línea de los usuarios y proporcionar servicios gratuitos integrados, como administradores de contraseñas con alertas de filtración de datos.
+
+- ¿Qué ventajas destaca Mozilla Firefox en términos de privacidad en comparación con Google Chrome?
+* Mozilla Firefox destaca su compromiso con la privacidad de los usuarios y la protección de datos en línea. Ofrece características como administradores de contraseñas y alertas de filtración de datos para brindar una experiencia de navegación más segura.
+
+- ¿Cuál es la recomendación de Mozilla para los usuarios que valoran la privacidad en línea y el ecosistema de Google?
+* Mozilla sugiere que los usuarios pueden utilizar ambos navegadores, Firefox y Chrome, según sus necesidades, eligiendo Firefox para momentos en los que la privacidad es una preocupación y Chrome si están interesados en el ecosistema de Google.
+
+- ¿Cuál es la función principal de un navegador web y cómo se accede a los recursos en línea?
+* Un navegador web permite a los usuarios acceder a recursos publicados en servidores web a través de Internet mediante direcciones URL. Su función principal es visualizar y navegar por recursos de tipo hipertexto, comúnmente descritos en HTML.
+
+- ¿Qué se entiende por "guerra de navegadores" y cuál fue uno de los momentos destacados de esta competencia en la década de 1990?
+* La "guerra de navegadores" se refiere a la competencia intensa entre los navegadores web por el dominio del mercado. Uno de los momentos destacados fue la lucha entre Microsoft con Internet Explorer y Netscape con Netscape Navigator a finales de los años 1990.
+
+- ¿Cuál fue el impacto de la competencia entre Internet Explorer y Netscape en el mercado de navegadores web?
+* La competencia entre Internet Explorer y Netscape llevó a una rápida evolución y mejora de los navegadores web. También influyó en la adopción de estándares web y en la experiencia de navegación de los usuarios.
+
+- ¿Cuáles son algunos de los navegadores web populares en la actualidad y cómo se posicionan en el mercado?
+* En la actualidad, algunos navegadores populares incluyen Google Chrome, Safari, Firefox y Edge. Google Chrome es ampliamente utilizado y tiene una fuerte presencia en el mercado, mientras que otros, como Safari, Firefox y Edge, compiten por cuotas de mercado.
+
+- ¿Por qué Internet Explorer está en declive y cuál es la situación actual de la competencia entre navegadores?
+* Internet Explorer está en declive debido a la falta de desarrollo y al enfoque en Edge como navegador principal de Microsoft. Actualmente, Google Chrome es líder en el mercado, mientras que Safari, Firefox y Edge compiten por usuarios en diferentes plataformas.
+
+- ¿Qué protocolo utilizan los navegadores web para comunicarse con los servidores web y qué significa HTTP?
+* Los navegadores web utilizan el Protocolo de Transferencia de HyperTexto, abreviado como HTTP (HyperText Transfer Protocol), para comunicarse con los servidores web.
+
+- ¿Qué información se incluye típicamente en una petición HTTP realizada por un navegador?
+* Una petición HTTP típicamente incluye una URL que identifica el servidor de destino y el recurso, un método que define la acción requerida (como GET o POST), y opcionalmente información adicional, como parámetros URL, datos POST o cookies de lado del cliente.
+
+- ¿Cuál es el propósito de los códigos de estado de respuesta HTTP y cuál es un ejemplo de un código de estado exitoso y uno de error?
+* Los códigos de estado de respuesta HTTP indican si la petición ha tenido éxito o no. Por ejemplo, "200 OK" indica éxito, mientras que "404 Not Found" indica que el recurso no se ha encontrado, y "403 Forbidden" indica que el usuario no tiene acceso autorizado al recurso.
+
+- ¿Qué sucede después de que un servidor web recibe una petición HTTP y envía una respuesta exitosa?
+* Después de recibir una petición HTTP y enviar una respuesta exitosa, el navegador web procesa el contenido de la respuesta, como una página HTML, y renderiza la página para que el usuario la vea. Si hay enlaces a otros recursos, el navegador enviará solicitudes HTTP separadas para descargar esos archivos.
+
+- ¿Qué tipos de métodos HTTP mencionas y cuál es su propósito principal?
+* Algunos de los métodos HTTP mencionados incluyen GET, POST, HEAD, PUT, DELETE, entre otros. Cada método tiene un propósito principal, como obtener un recurso (GET), enviar datos al servidor (POST), obtener información de encabezado (HEAD), actualizar recursos (PUT), o eliminar recursos (DELETE).
+
+- ¿Qué es Safari y en qué sistemas operativos está disponible?
+* Safari es un navegador web desarrollado por Apple Inc. Está disponible en los sistemas operativos macOS, iPadOS e iOS. Anteriormente, estuvo disponible para Windows de 2007 a 2012.
+
+- ¿Sobre qué framework y motores se basa Safari en su desarrollo?
+* Safari está escrito sobre el framework WebKit, que incluye WebCore como el motor de renderizado y JavaScriptCore como el intérprete de JavaScript. WebKit, a su vez, está basado en el motor KHTML, desarrollado por el proyecto KDE para su navegador Konqueror.
+
+- ¿Cuál es la licencia bajo la cual se libera el motor interno de Safari y cómo se relaciona con el software libre?
+* El motor interno de Safari, WebKit, se libera bajo los términos de la licencia LGPL (GNU Lesser General Public License). Esto significa que es software libre y permite la colaboración y mejora continua del código. Las mejoras realizadas por Apple en el código de HTML son incorporadas al código de KDE.
+
+- ¿Por qué Safari tiene una ventaja inicial en el mercado de navegadores en dispositivos Apple?
+* Safari tiene una ventaja inicial en dispositivos Apple porque se preinstala como el navegador web predeterminado en los productos de Apple, como Mac y iPhone. Esto significa que los usuarios de estos dispositivos ya tienen Safari instalado, lo que facilita su uso y adopción.
+
+- ¿Qué sistemas operativos son compatibles con Safari en la actualidad?
+* En la actualidad, Safari es compatible con macOS, iPadOS e iOS. Se ha enfocado en los dispositivos Apple y su ecosistema.
+
+- ¿Qué es un "entorno de ejecución" en el contexto de la seguridad en el navegador?
+* Un "entorno de ejecución" en el contexto de la seguridad en el navegador se refiere al espacio aislado en el que se ejecuta el código de una pestaña del navegador. Cada pestaña tiene su propio entorno de ejecución, lo que significa que el código de una pestaña se ejecuta de forma independiente y no puede afectar el código en otras pestañas o en otros sitios web.
+
+- ¿Cuál es el propósito principal de tener entornos de ejecución separados para cada pestaña del navegador?
+* El propósito principal de tener entornos de ejecución separados es proporcionar una medida de seguridad. Esto evita que el código malicioso en una pestaña pueda interactuar con el código en otras pestañas o sitios web, lo que ayuda a prevenir ataques y robos de información entre sitios.
+
+- ¿Qué es la política del mismo origen y cómo contribuye a la seguridad en los navegadores?
+* La política del mismo origen es una regla de seguridad que establece que los scripts de un sitio web no tienen acceso a la información enviada a otro sitio web que tenga un dominio diferente. Esto incluye información como nombres de usuario, contraseñas y cookies. Esta política ayuda a garantizar que los datos confidenciales no sean accesibles por scripts maliciosos de otros dominios.
+
+- ¿Cuál es la importancia de la política del mismo origen en la protección de datos y la privacidad en línea?
+* La política del mismo origen es fundamental para proteger datos y la privacidad en línea. Evita que los scripts de sitios web maliciosos accedan a datos confidenciales de otros sitios web, lo que ayuda a prevenir el robo de información y otros ataques cibernéticos.
+
+- ¿Existen excepciones a la política del mismo origen en los navegadores web?
+* Sí, existen excepciones a la política del mismo origen, como los encabezados de permisos cruzados (CORS) que permiten a los sitios web especificar qué dominios externos pueden acceder a su contenido de manera controlada.
+
+- ¿Cuál es el propósito principal del atributo src en una etiqueta de script?
+* El atributo src en una etiqueta de script se utiliza para especificar la URI (Uniform Resource Identifier) del script externo que se debe cargar en la página web. Esto permite la inclusión de scripts externos en lugar de incluir código directamente en el documento HTML.
+
+- ¿Cuándo se recomienda usar el atributo src en una etiqueta de script en lugar de incluir código en la etiqueta misma?
+* Se recomienda usar el atributo src cuando se desea cargar un script externo desde una ubicación específica, como un archivo JavaScript almacenado en un servidor externo o una CDN. Esto facilita la gestión y reutilización de scripts.
+
+- ¿Puede una etiqueta de script tener tanto el atributo src como código dentro de la etiqueta?
+* No, según la convención y las mejores prácticas, si una etiqueta de script tiene el atributo src, no debe contener código dentro de la etiqueta misma. El código se incluirá en el archivo externo especificado en el atributo src.
+
+- ¿Cuáles son las ventajas de usar scripts externos con el atributo src en lugar de scripts embebidos en el documento?
+* Algunas ventajas de usar scripts externos con el atributo src incluyen la posibilidad de reutilizar scripts en múltiples páginas, la facilidad de actualización y mantenimiento, la carga paralela de recursos y la optimización del rendimiento de la página.
+
+- ¿Qué tipo de recursos pueden especificarse en el atributo src de una etiqueta de script?
+* En el atributo src, se puede especificar la URI de recursos como archivos JavaScript almacenados en servidores web, CDNs (Content Delivery Networks) o cualquier otra ubicación accesible a través de una URL.
+
+- ¿Qué es SRI (Subresource Integrity) y cuál es su propósito en el desarrollo web?
+* SRI (Subresource Integrity) es una especificación del W3C que permite a los desarrolladores web verificar que los recursos alojados en servidores de terceros no hayan sido manipulados. Su propósito principal es garantizar la integridad y seguridad de los recursos cargados desde fuentes externas, como CDNs, para prevenir ataques de inyección de código malicioso.
+
+- ¿Cuándo se recomienda utilizar SRI en el desarrollo web?
+* Se recomienda utilizar SRI siempre que se carguen recursos, como librerías, desde una fuente de terceros, como un servidor CDN. Esto ayuda a garantizar que los recursos no hayan sido alterados y que son seguros de usar en la página web.
+
+- ¿Por qué es necesario incluir el atributo crossorigin="anonymous" en las etiquetas de script o enlaces a recursos externos cuando se utiliza SRI?
+* El atributo crossorigin="anonymous" es necesario para verificar la integridad del archivo cuando la solicitud no está en el mismo origen (es decir, cuando se carga desde un dominio diferente al de la página web). Sin este atributo, el navegador puede cargar el recurso como si el atributo integrity no estuviera configurado, lo que comprometería la seguridad que proporciona SRI.
+
+- ¿Cómo afecta la presencia del atributo crossorigin a la forma en que el navegador maneja la carga de recursos desde fuentes externas?
+* La presencia del atributo crossorigin indica al navegador que debe realizar verificaciones de integridad cuando se cargan recursos desde fuentes externas. Esto asegura que los recursos coincidan con sus valores de integridad especificados en el atributo integrity, lo que garantiza que no se han manipulado durante la transferencia.
+
+- ¿Cuáles son los beneficios clave de utilizar SRI y el atributo crossorigin en el desarrollo web?
+* Los beneficios clave incluyen la protección contra ataques de inyección de código malicioso en recursos externos, la garantía de que los recursos son auténticos y no han sido modificados, y una mayor seguridad en la carga de librerías y otros recursos desde servidores de terceros.
+
+- ¿Cuál es el propósito principal del atributo type en una etiqueta de script?
+* El atributo type en una etiqueta de script se utiliza para identificar el lenguaje de scripting en el que está escrito el código embebido dentro de la etiqueta o referenciado mediante el atributo src. Esto ayuda al navegador a comprender cómo debe procesar el código.
+
+- ¿Cuáles son algunos ejemplos de valores posibles para el atributo type?
+* Algunos ejemplos de valores posibles para el atributo type son text/javascript, text/ecmascript, application/javascript, application/ecmascript y module. Estos valores se especifican como tipos MIME y se utilizan para identificar el lenguaje de scripting.
+
+- ¿Qué sucede si se especifica un tipo MIME que no es un tipo JavaScript en el atributo type?
+* Si se especifica un tipo MIME que no es un tipo JavaScript en el atributo type, el contenido embebido dentro de la etiqueta de script se trata como un bloque de datos que no será procesado por el navegador. En otras palabras, el navegador no ejecutará el código si el tipo especificado no es JavaScript.
+
+- ¿Cuál es la importancia de especificar el tipo MIME correctamente en el atributo type?
+* Es importante especificar el tipo MIME correctamente en el atributo type para que el navegador pueda interpretar y procesar el código de manera adecuada. Esto garantiza que el código se ejecute como se espera y que no se produzcan errores de interpretación.
+
+- ¿Qué significa que el tipo MIME sea "module" y cómo afecta al procesamiento del código?
+* Cuando el tipo MIME especificado es "module," el código se trata como un módulo JavaScript. Los módulos permiten una modularidad y encapsulación más estrictas en el código JavaScript. Esto afecta la forma en que se importan y exportan variables y funciones entre módulos y puede ayudar en la organización y estructuración del código.
