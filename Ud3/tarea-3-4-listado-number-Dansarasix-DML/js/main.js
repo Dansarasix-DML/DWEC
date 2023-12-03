@@ -167,6 +167,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const radio = document.getElementsByName("rad")[0];
         const area = document.getElementsByName("area")[0];
         const calcular_area = r => (r**2)*Math.PI;
+        // radio.dispatchEvent(new Event("input"));
         area.value = (esValido(radio.value, "dec")) ? 
         calcular_area(parseInt(radio.value, 10)).toFixed(4) :
         "No es un número";

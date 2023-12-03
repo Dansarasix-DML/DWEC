@@ -24,8 +24,8 @@ document.addEventListener("DOMContentLoaded", function() {
                 </head>
                 <body>
                     <p>Se han utilizado las siguientes propiedades:<br/></p>
-                    <p>height=200<br/></p>
-                    <p>width=300<br/></p>
+                    <p>height=${window.innerWidth}<br/></p>
+                    <p>width=${window.innerHeight}<br/></p>
                 </body>
             </html>
         `);

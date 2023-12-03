@@ -15,6 +15,37 @@ function crearLista(item, texto1, texto2) {
     item.appendChild(sub);
 }
 
+function updateScrollValues() {
+    let scrollXValue = document.getElementsByName("valor_x")[0];
+    let scrollYValue = document.getElementsByName("valor_y")[0];
+    scrollXValue.textContent = window.scrollX;
+    scrollYValue.textContent = window.scrollY;
+}
+
+function scrollLineDown() {
+    window.scrollBy(0, 20);
+}
+
+function scrollLineUp() {
+    window.scrollBy(0, -20);
+}
+
+function scrollPageDown() {
+    window.scrollBy(0, window.innerHeight);
+}
+
+function scrollPageUp() {
+    window.scrollBy(0, -window.innerHeight);
+}
+
+function scrollToTop() {
+    window.scrollTo(0, 0);
+}
+
+function scrollToBottom() {
+    window.scrollTo(0, document.body.scrollHeight);
+}
+
 function ventanaURL() {
     const vent = document.getElementsByName("url")[0];
     vent.addEventListener("click", function (){
@@ -87,6 +118,23 @@ document.addEventListener("DOMContentLoaded", function () {
     listaOrdenada.appendChild(item3);
     listaOrdenada.appendChild(item4);
     eje1.appendChild(listaOrdenada);
+
+    const baja_linea = this.getElementsByName("baja_linea")[0];
+    const sube_linea = this.getElementsByName("sube_linea")[0];
+    const baja_pagina = this.getElementsByName("baja_pagina")[0];
+    const sube_pagina = this.getElementsByName("sube_pagina")[0];
+    const sube_inicio = this.getElementsByName("sube_inicio")[0];
+    const baja_fin = this.getElementsByName("baja_fin")[0];
+
+    baja_linea.addEventListener("click", scrollLineDown);
+    sube_linea.addEventListener("click", scrollLineUp);
+    baja_pagina.addEventListener("click", scrollPageDown);
+    sube_pagina.addEventListener("click", scrollPageUp);
+    sube_inicio.addEventListener("click", scrollToTop);
+    baja_fin.addEventListener("click", scrollToBottom);
+    
+    window.addEventListener('scroll', updateScrollValues);
+
 
     ventanaURL();
 

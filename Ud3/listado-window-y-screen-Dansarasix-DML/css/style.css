@@ -1,0 +1,8 @@
+.controles{
+    position: fixed;
+    right: 1px;
+    padding: 1%;
+    margin: -1% 1%;
+    border: solid;
+    background-color: rgba(255,255,255,0.5);
+}
