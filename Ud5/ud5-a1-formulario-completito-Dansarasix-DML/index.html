@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Daniel Marín López">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/main.js"></script>
+    <title>Formulario: Daniel Marín López</title>
+</head>
+<body>
+    <h1>Formulario completito</h1>
+    <form action="" method="" id="form">
+        <fieldset>
+            <legend>Obligatorio</legend>
+            <div>
+                <label for="texto">Texto:</label>
+                <input type="text" id="texto">
+                <span class="error"></span>
+            </div>
+            <div>
+                <label for="checkbox">Checkbox:</label>
+                <input type="checkbox" id="checkbox">
+                <span class="error"></span>
+            </div>
+            <div>
+                <label for="sexo" id="sexo">
+                    <input type="radio" id="masc" value="masculino"> masculino
+                    <input type="radio" id="fem" value="femenino"> femenino
+                </label>
+                <span class="error"></span>
+            </div>
+            <div>
+                <label for="opciones">Selecciona:</label>
+                <select id="opciones">
+                    <option hidden selected disabled value="">--Selecciona una opción--</option>
+                    <option value="">Ninguno</option>
+                    <option value="juego1">東方鬼形獣　〜 Wily Beast and Weakest Creature</option>
+                    <option value="juego2">東方虹龍洞　〜 Unconnected Marketeers</option>
+                    <option value="juego3">東方獣王園　〜 Unfinished Dream of All Living Ghost</option>
+                </select>
+                <span class="error"></span>
+            </div>
+            <div>
+                <label for="fecha">Fecha:</label>
+                <input type="date" id="fecha"> <span class="error"></span>
+            </div>
+        </fieldset>
+        <div>
+            <label for="entero">Número Entero:</label>
+            <input type="text" id="entero"> <span class="error"></span>
+        </div>
+        <div>
+            <label for="decimal">Número Decimal:</label>
+            <input type="text" id="decimal"> <span class="error"></span>
+        </div>
+        <div>
+            <label for="correo">Correo:</label>
+            <input type="email" id="correo"> <span class="error"></span>
+        </div>
+        <div>
+            <label for="url">URL:</label>
+            <input type="url" id="url"> <span class="error"></span>
+        </div>
+        <div>
+            <label for="fecha2">Fecha:</label>
+            <input type="datetime" id="fecha2"> <span class="error"></span>
+        </div>
+        <div>
+            <label for="dni">DNI:</label>
+            <input type="text" id="dni"> <span class="error"></span>
+        </div>
+        <div>
+            <label for="tlf">Télefono:</label>
+            <input type="tel" id="tlf"> <span class="error"></span>
+        </div>
+        <input type="submit" name="envio" value="Aceptar">
+        <button type="reset" name="limpia">Limpiar</button>
+        <button name="rellena">Rellenar</button>
+    </form>
+</body>
+</html>

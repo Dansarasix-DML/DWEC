@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Daniel Marín López">
+    <script src="./js/main.js"></script>
+    <title>Gatito</title>
+</head>
+<body>
+    <h1>Crear Lindo Gatito X3</h1>
+    <form action="">
+        <label for="nombre">
+            Nombre: <input type="text" name="nombre">
+        </label>
+        <br/><br/>
+        <label for="fecha_nac">
+            Fecha de Nacimiento: <input type="date" name="fecha_nac" min="2001-01-01" max="2024-01-31">
+        </label>
+        <br/><br/>
+        <label for="peso">
+            Peso: <input type="number" name="peso" min="1" max="15">
+        </label>
+        <br/><br/>
+        <label for="raza">
+            Raza:
+            <select name="raza">
+                <option value="persa">Persa</option>
+                <option value="siames">Siames</option>
+                <option value="ragdoll">Ragdoll</option>
+            </select>
+        </label>
+        <br/><br/>
+        <input type="button" name="creaGato" value="Crear gato">
+    </form>
+</body>
+</html>

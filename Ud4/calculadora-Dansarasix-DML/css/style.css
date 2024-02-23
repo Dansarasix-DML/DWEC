@@ -1,0 +1,22 @@
+.cuerpo{
+    background-color: silver;
+    border: solid;
+    width: 300px;
+    padding: 5px;
+    height: 300px;
+}
+
+.salida{
+    font-size: larger;
+    text-align: right;
+    width: 293px;
+    height: 30px;
+    border: solid;
+    margin-bottom: 10px;
+} 
+
+.boton{
+    font-size: larger;
+    width: 74.5px;
+    height: 50px;
+}
